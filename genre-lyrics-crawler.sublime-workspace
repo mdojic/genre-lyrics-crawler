@@ -1,0 +1,843 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ar_",
+				"artist_name"
+			],
+			[
+				"_write",
+				"_writeFilteredArtistsSuccess"
+			],
+			[
+				"reaDall",
+				"readAllArtists"
+			],
+			[
+				"reall",
+				"readAllArtists"
+			],
+			[
+				"FIL_",
+				"FILTERED_ARTISTS_WRITER_URL"
+			],
+			[
+				"readALl",
+				"readAllArtists"
+			],
+			[
+				"ar",
+				"artist_genre"
+			],
+			[
+				"single",
+				"SingleArtistLyricsCrawler"
+			],
+			[
+				"ger_",
+				"genre_artist_separator"
+			],
+			[
+				"genre",
+				"genre_part"
+			],
+			[
+				"sep",
+				"genre_artist_separator"
+			],
+			[
+				"all",
+				"albumLyrics"
+			],
+			[
+				"lAr",
+				"lyricsArray"
+			],
+			[
+				"sent",
+				"sentLyricsToServer"
+			],
+			[
+				"AL_C",
+				"ALBUM_CONTAINER_CLASS"
+			],
+			[
+				"artits",
+				"artists"
+			],
+			[
+				"Genre",
+				"GenreCrawlerMain"
+			],
+			[
+				"unwan",
+				"unwantedSubgenres"
+			],
+			[
+				"php",
+				"phpUrl"
+			],
+			[
+				"ge",
+				"genreArtists"
+			],
+			[
+				"arDe",
+				"artistDescription"
+			],
+			[
+				"GNS",
+				"NAME_GENRE_SEPARATOR"
+			],
+			[
+				"GE_",
+				"GENRE_URL_TEMPLATE"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "coffee/main.coffee",
+			"settings":
+			{
+				"buffer_size": 4430,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "coffee/genre_lyrics/single_artist_lyrics_crawler.coffee",
+			"settings":
+			{
+				"buffer_size": 2354,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "coffee/app_data.coffee",
+			"settings":
+			{
+				"buffer_size": 1120,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "coffee/genre_lyrics/lyrics_crawler.coffee",
+			"settings":
+			{
+				"buffer_size": 7908,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "res/progress.txt",
+			"settings":
+			{
+				"buffer_size": 37,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "php/lyrics_writer.php",
+			"settings":
+			{
+				"buffer_size": 1704,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "coffee/genre_lyrics/artist_lyrics_parser.coffee",
+			"settings":
+			{
+				"buffer_size": 4966,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 129.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Align",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 689.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"import webbrowser; webbrowser.open(\"https://www.google.com\")",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/wamp64/www/genre-lyrics-crawler",
+		"/D/wamp64/www/genre-lyrics-crawler/coffee",
+		"/D/wamp64/www/genre-lyrics-crawler/coffee/genre_lyrics",
+		"/D/wamp64/www/genre-lyrics-crawler/php",
+		"/D/wamp64/www/genre-lyrics-crawler/res",
+		"/D/wamp64/www/genre-lyrics-crawler/res/artists",
+		"/D/wamp64/www/genre-lyrics-crawler/res/lyrics"
+	],
+	"file_history":
+	[
+		"/D/wamp64/www/genre-lyrics-crawler/res/progress.txt",
+		"/D/wamp64/www/genre-lyrics-crawler/res/lyrics/death.txt",
+		"/D/wamp64/www/genre-lyrics-crawler/res/lyrics/black.txt",
+		"/D/wamp64/www/genre-lyrics-crawler/coffee/app_data.coffee",
+		"/D/wamp64/www/genre-lyrics-crawler/res/lyrics/thrash.txt",
+		"/D/wamp64/www/genre-lyrics-crawler/php/filtered_genre_artist_writer.php",
+		"/D/wamp64/www/genre-lyrics-crawler/coffee/genre_artists/reading/single_genre_artists_reader.coffee",
+		"/D/wamp64/www/genre-lyrics-crawler/coffee/genre_lyrics/lyrics_crawler.coffee",
+		"/D/wamp64/logs/php_error.log",
+		"/D/wamp64/www/genre-lyrics-crawler/coffee/genre_artists/genre_processing_utils.coffee",
+		"/D/wamp64/www/genre-lyrics-crawler/coffee/genre_artists/reading/genre_artists_reader.coffee",
+		"/D/wamp64/www/genre-lyrics-crawler/js/genre_lyrics/lyrics_crawler.js",
+		"/D/wamp64/www/genre-lyrics-crawler/php/artists_filter.php",
+		"/D/wamp64/www/genre-lyrics-crawler/php/genre_artist_writer.php",
+		"/D/wamp64/www/genre-lyrics-crawler/coffee/genre_artists/crawling/single_genre_artists_crawler.coffee",
+		"/D/wamp64/www/genre-lyrics-crawler/php/genre_artist_reader.php",
+		"/D/wamp64/www/genre-lyrics-crawler/genre-lyrics-crawler.sublime-project",
+		"/C/Users/glavoiznabadavanje/AppData/Roaming/Sublime Text 3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/D/wamp64/bin/apache/apache2.4.23/bin/php.ini",
+		"/D/wamp64/www/genre-lyrics-crawler/php/lyrics_writer.php",
+		"/D/wamp64/www/genre-lyrics-crawler/coffee/genre_lyrics/artist_lyrics_parser.coffee",
+		"/D/wamp64/www/genre-lyrics-crawler/coffee/main.coffee",
+		"/D/wamp64/www/genre-lyrics-crawler/php/progress_writer.php",
+		"/D/wamp64/www/genre-lyrics-crawler/coffee/genre_lyrics/single_artist_lyrics_crawler.coffee",
+		"/D/wamp64/www/genre-lyrics-crawler/php/progress_reader.php",
+		"/D/wamp64/www/genre-lyrics-crawler/js/genre_lyrics/single_artist_lyrics_crawler.js",
+		"/D/wamp64/www/genre-lyrics-crawler/coffee/ajax_utils.coffee",
+		"/D/wamp64/www/genre-lyrics-crawler/php/genre_artists_reader.php",
+		"/D/wamp64/www/genre-lyrics-crawler/coffee/genre_artists/crawling/genre_artists_crawler.coffee",
+		"/D/wamp64/www/genre-lyrics-crawler/index.html",
+		"/D/wamp64/www/genre-lyrics-crawler/coffee/app_utils.coffee",
+		"/D/wamp64/www/genre-lyrics-crawler/js/genre_artists/crawling/single_genre_artists_crawler.js",
+		"/D/wamp64/www/genre-lyrics-crawler/js/app_data.js",
+		"/D/wamp64/www/genre-lyrics-crawler/js/enable_cors.js",
+		"/D/wamp64/www/genre-lyrics-crawler/js/single_genre_reader.js",
+		"/D/wamp64/bin/apache/apache2.4.23/conf/extra/httpd-vhosts.conf",
+		"/D/wamp64/bin/apache/apache2.4.23/conf/httpd.conf",
+		"/D/wamp64/www/encyclopaedia-metallum-crawler/coffee/genre_artists/genre_artists_reader.coffee",
+		"/D/wamp64/www/encyclopaedia-metallum-crawler/coffee/genre_artists/single_genre_artists_crawler.coffee",
+		"/D/wamp64/www/encyclopaedia-metallum-crawler/coffee/genre_artists/genre_processing_utils.coffee",
+		"/D/wamp64/www/encyclopaedia-metallum-crawler/coffee/genre_artists/single_genre_artists_reader.coffee",
+		"/D/wamp64/www/encyclopaedia-metallum-crawler/coffee/genre_artists/genre_artists_crawler.coffee",
+		"/D/wamp64/www/encyclopaedia-metallum-crawler/res/black.txt",
+		"/D/wamp64/www/encyclopaedia-metallum-crawler/php/genre_reader.php",
+		"/D/wamp64/www/encyclopaedia-metallum-crawler/coffee/main.coffee",
+		"/D/wamp64/www/encyclopaedia-metallum-crawler/coffee/single_genre_reader.coffee",
+		"/D/wamp64/www/encyclopaedia-metallum-crawler/coffee/lyric_crawler.coffee",
+		"/D/wamp64/www/encyclopaedia-metallum-crawler/coffee/genre_processing_utils.coffee",
+		"/D/wamp64/www/encyclopaedia-metallum-crawler/coffee/genre_reader.coffee",
+		"/D/wamp64/www/encyclopaedia-metallum-crawler/index.html",
+		"/D/wamp64/www/encyclopaedia-metallum-crawler/coffee/ajax_utils.coffee",
+		"/D/wamp64/www/encyclopaedia-metallum-crawler/js/genre_processing_utils.js",
+		"/D/wamp64/www/encyclopaedia-metallum-crawler/js/app_data.js",
+		"/D/wamp64/www/encyclopaedia-metallum-crawler/coffee/single_genre_crawler.coffee",
+		"/D/wamp64/www/encyclopaedia-metallum-crawler/js/single_genre_crawler.js",
+		"/D/wamp64/www/encyclopaedia-metallum-crawler/coffee/genre_crawler.coffee",
+		"/D/wamp64/www/encyclopaedia-metallum-crawler/coffee/app_data.coffee",
+		"/D/wamp64/www/encyclopaedia-metallum-crawler/res/doom.txt",
+		"/D/wamp64/www/encyclopaedia-metallum-crawler/res/thrash.txt",
+		"/D/wamp64/www/encyclopaedia-metallum-crawler/res/death.txt",
+		"/D/wamp64/www/encyclopaedia-metallum-crawler/js/genre_crawler.js",
+		"/D/wamp64/www/encyclopaedia-metallum-crawler/php/writer.php",
+		"/D/wamp64/www/encyclopaedia-metallum-crawler/js/crawler.js",
+		"/D/Development/Python/encyclopaedia-metallum-parser/death_metal.txt",
+		"/D/Development/Python/encyclopaedia-metallum-parser/parser.py",
+		"/D/Development/Python/fibo.py",
+		"/D/Development/Python/encyclopaedia-metallum-parser/black_metal.txt",
+		"/D/Development/Python/encyclopaedia-metallum-parser/black_metal.json",
+		"/D/wamp64/www/encyclopaedia-metallum-crawler/crawler.coffee",
+		"/C/Users/glavoiznabadavanje/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/C/Users/glavoiznabadavanje/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/C/Users/glavoiznabadavanje/AppData/Roaming/Sublime Text 3/Packages/Alignment/Base File.sublime-settings"
+	],
+	"find":
+	{
+		"height": 52.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"CRAWL_GENRES",
+			"undefined",
+			"abbath",
+			"undefined",
+			"setTimeout",
+			"undefined",
+			"XXX] DEBUG MODE",
+			"undefined",
+			"}",
+			"_transformLyricsForServer",
+			"artist",
+			"_transformLyricsForServer",
+			"_sendLyricsToServer",
+			"artist_name",
+			"artistGenre",
+			"artistLyricsCrawlingDone",
+			"_songLyricsParsed",
+			"@artistLyrics",
+			"artistLyrics",
+			"SONG_LYRICS_CONTAINER_CLASS",
+			"SONG_LYRICS_CONTAINER_ELEMENT",
+			"sentLyricsToServer",
+			"isDebugMode",
+			"getArtistsFilter",
+			"genre_artist_writer",
+			"genre_artists_writer",
+			"GenreArtistsReader",
+			"genreReadingDone",
+			"genre_artist_reader",
+			"crawl",
+			"Crawl lyrics for artist",
+			"error while loading album songs page",
+			"parseAlbumLyrics",
+			"@main",
+			"AppData",
+			"_isUrlDomainValid",
+			"_getAlbumLyricsAbsoluteUrl",
+			"relativeurl",
+			"createNewFile",
+			"fresh",
+			"domain",
+			"_writeGenreProgress",
+			"_crawlCurrentGenreArtists",
+			"*** all",
+			"skipping",
+			"--- progress written",
+			"laststartedartist",
+			"@GenreArtistsReader",
+			"GenreArtistsReader",
+			"LyricsCrawler.crawl",
+			"new LyricsCrawler",
+			"LyricsCrawler created",
+			"$ $ $",
+			"progresswriterurl",
+			"--- not last genre",
+			"laststartedartist",
+			"las",
+			"new lyricscrawler",
+			"progresswriterurl",
+			"laststartedartist",
+			"progress",
+			"XXX",
+			"progress",
+			"_crawlCurrentArtist",
+			"singleartist",
+			"single_artist",
+			"progressLoad",
+			"@artists",
+			"GenreLyricsCrawler",
+			"allGenreArtistsCrawled",
+			"getProgressWriterUrl",
+			"progress",
+			"|||",
+			"_progressWritten",
+			"parsedSuccessFunction",
+			"parsedsucc",
+			"parsedsicc",
+			"|||",
+			"progress",
+			"allGenreArtistsCrawled",
+			"_songLyricsParsed",
+			"artistlyricsparser",
+			"genre_artist_writer.php",
+			"ge",
+			"genre_artist_writer",
+			"@ArtistLyricsParser",
+			"isDebugMode",
+			"read(",
+			"@GenreArtistsReader",
+			"_songLyricsParsed",
+			"@ArtistLyricsParser",
+			"_songLyricsParsed",
+			"@SingleArtistLyricsCrawler",
+			"SingleArtistLyricsCrawler",
+			"allGenreArtistsCrawled",
+			"ArtistLyricsParser",
+			"SingleArtistLyricsCrawler",
+			"artistLyricsCrawlingDone",
+			"@SingleArtistLyricsCrawler",
+			"@LyricsCrawler",
+			"@GenreArtistsCrawler",
+			"GenreArtistsReader",
+			"writer.php",
+			"genre_reader",
+			"../",
+			"genre_reader",
+			"allgenreartists",
+			"_sendLyricsToServer",
+			"|$",
+			"_sendLyricsToServer",
+			"lyrics_writer",
+			"]",
+			"currentGenre",
+			"artist_name",
+			"artist page not found",
+			"@@@",
+			"_sendToServerError",
+			"writer.php",
+			"savefile",
+			"artistLyricsCrawlingDone",
+			"_songLyricsParsed",
+			"parseArtistLyrics",
+			"exposedHeaders",
+			"allGenreArtistsCrawled",
+			"_songLyricsParsed",
+			"@albumLyrics",
+			"albumLyrics",
+			"albumElementParsed"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"@artistAlbumLyrics",
+			"genre-lyrics-crawler",
+			"SingleGenreArtistsReader",
+			"SingeGenreArtistsCrawler",
+			"rtists",
+			"GenreArtistReader",
+			"GenreArtistCrawler",
+			"@genres",
+			"@currentPage",
+			"@maxPages",
+			"GenreCrawler",
+			"_saveGenreArtists",
+			"loadByGenre"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "coffee/main.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4430,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3194,
+								3193
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1627.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "coffee/genre_lyrics/single_artist_lyrics_crawler.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2354,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2025,
+								2025
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1020.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "coffee/app_data.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								353,
+								353
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "coffee/genre_lyrics/lyrics_crawler.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7908,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4830,
+								4830
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3203.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "res/progress.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 37,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "php/lyrics_writer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1704,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1606,
+								1606
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 854.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "coffee/genre_lyrics/artist_lyrics_parser.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4966,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1430,
+								1430
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 240.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.465986394558,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "genre-lyrics-crawler.sublime-project",
+	"replace":
+	{
+		"height": 55.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"18":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"50":
+				{
+					"group": 0,
+					"index": 2
+				},
+				"55":
+				{
+					"group": 1,
+					"index": 3
+				},
+				"57":
+				{
+					"group": 1,
+					"index": 1
+				},
+				"58":
+				{
+					"group": 1,
+					"index": 2
+				},
+				"65":
+				{
+					"group": 0,
+					"index": 1
+				},
+				"66":
+				{
+					"group": 1,
+					"index": 0
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 283.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
